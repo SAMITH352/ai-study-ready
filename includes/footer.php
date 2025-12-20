@@ -1,0 +1,1 @@
+<hr><footer>© 2025 AI Study Plan</footer></body></html>

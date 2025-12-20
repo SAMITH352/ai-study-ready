@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><title>AI Study Plan</title></head><body><h1>AI Study Plan Generator</h1><hr>
