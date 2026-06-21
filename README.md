@@ -46,7 +46,7 @@ The project is built using **PHP** and follows a modular structure with separate
 
 ## 🧩 Project Structure
 
-
+```bash
 ai-study-ready/
 │
 ├── admin/         # Admin panel and management pages
